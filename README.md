@@ -5,11 +5,11 @@
 
 ## Sobre mim:
 
-Apaixonado por tecnologia e hacker desde a infância! Tomei coragem e comecei a estudar programação, hoje apaixonado por **Python** onde espero tentar entrar no mercado de trabalho.
+Apaixonado por tecnologia e hacker desde a infância! Tomei coragem e comecei a estudar programação, hoje apaixonado por **Python** onde espero conseguir entrar no mercado de trabalho e trabalhar com algo que eu gosto que é **Programar**.
 
 ## Meus Objetivos:
 
-- Me tornar um bom desenvolvedor Back-End
+- Me tornar um bom **Desenvolvedor Back-End**
 - Aprender e dominar o que for necessário para criar meus projeto.
 - Estudar sobre tecnologias novas, como NodeJS, JavaScript, ReactJS, entre outras.
 - Participar de projetos Open Source para adquirir habilidades em equipe e aprender a trabalhar com pessoas diferentes.
